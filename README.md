@@ -1,5 +1,5 @@
 # Welcome!
-Below is a collection of projects I've done in both my free time and as part of my MSCS coursework. All projects are Python based with various packages.
+Below is a collection of projects I've done in both my free time and as part of my MSCS coursework. Projects related to my professional work experience can be found on my [LinkedIn](https://www.linkedin.com/in/alaynanicholson/).
 
 
 ## Academic Technical Write-ups 🏫
@@ -30,4 +30,3 @@ Determine whether a job training program had a positive effect on employees' fut
 ### [Uplift  Modeling](https://github.com/anicholson6/Personal-Portfolio/tree/main/uplift-models) 💰
 Use uplift modeling to identify customers that will make a conversion if exposed to an ad, and determine the incremental gain over a control group. Method was compared across three meta learners - S, T, and X - to identify the top decile of customers.
 ![images](assets/img/qini-curve.png)
-
