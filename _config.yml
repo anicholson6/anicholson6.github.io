@@ -2,10 +2,4 @@ title: Alayna Nicholson | Data Analytics and Science Portfolio
 description: MSCS @ Georgia Tech | Sr. Marketing Analyst @ Ace Hardware
 theme: jekyll-theme-minimal
 logo: /assets/img/headshot2.jpg
-links:
-  - title: LinkedIn
-    url: https://www.linkedin.com/in/alaynanicholson
-  - title: GitHub
-    url: https://github.com/anicholson6
-  - title: Email
-    url: mailto:nicholsonalayna90@gmail.com
+linkedin_username: alaynanicholson
