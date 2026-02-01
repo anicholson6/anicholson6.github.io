@@ -4,7 +4,7 @@ Below is a collection of projects I've done in both my free time and as part of 
 -------------------------
 
 # [MSCS Technical Portfolio](https://github.com/anicholson6/MSCS-Portfolio) 
-Detailed technical write-ups of my Georgia Tech OMSCS coursework (Jan 2023-Aug 2025). Each README discusses the problem statement, implementation strategies, and experimental results for a specific project. Courses include Machine Learning, Reinforcement Learning, Machine Learning for Trading, Natural Language Processing, and Knowledge Based AI. Click on each header for more details.
+Detailed technical write-ups of my Georgia Tech OMSCS coursework (Jan 2023-Aug 2025). Courses include **Machine Learning, Reinforcement Learning, Machine Learning for Trading, Natural Language Processing, and Knowledge Based AI.** Click on each header for more details.
 
 ## [Machine Learning For Trading](https://github.com/anicholson6/MSCS-Portfolio/blob/main/Machine_Learning_For_Trading.md)
 ### Core Research Projects
