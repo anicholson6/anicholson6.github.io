@@ -1,13 +1,26 @@
 # Welcome!
 Below is a collection of projects I've done in both my free time and as part of my MSCS coursework. Projects related to my professional work experience can be found on my [LinkedIn](https://www.linkedin.com/in/alaynanicholson/).
 
+- [Welcome!](#welcome)
+- [MSCS Technical Portfolio](#mscs-technical-portfolio)
+  - [Machine Learning For Trading](#machine-learning-for-trading)
+  - [Machine Learning](#machine-learning)
+  - [Reinforcement Learning](#reinforcement-learning)
+  - [Knowledge Based AI](#knowledge-based-ai)
+  - [Natural Language Processing](#natural-language-processing)
+- [Personal Projects](#personal-projects)
+  - [Solar Energy Accessibility Analysis](#solar-energy-accessibility-analysis)
+  - [Propensity Score Matching](#propensity-score-matching)
+  - [Uplift  Modeling](#uplift--modeling)
+  - [Synthetic Control](#synthetic-control)
+
 -------------------------
 
 # [MSCS Technical Portfolio](https://github.com/anicholson6/MSCS-Portfolio) 
 Detailed technical write-ups of my Georgia Tech OMSCS coursework (Jan 2023-Aug 2025). Courses include **Machine Learning, Reinforcement Learning, Machine Learning for Trading, Natural Language Processing, and Knowledge Based AI.** Click on each header for more details.
 
 ## [Machine Learning For Trading](https://github.com/anicholson6/MSCS-Portfolio/blob/main/Machine_Learning_For_Trading.md)
-### Core Research Projects
+
 
 
 | Project | Key Focus | Highlights |
@@ -17,11 +30,10 @@ Detailed technical write-ups of my Georgia Tech OMSCS coursework (Jan 2023-Aug 2
 | **Strategy Optimization** | Technical Analysis & RL | Engineered an automated "Strategy Learner" using Random Forests and Q-Learning to identify optimal trade signals based on technical indicators. |
 
 ![image](assets/img/ML4T-In-Sample-Learner.png)
----
+
 
 ## [Machine Learning](https://github.com/anicholson6/MSCS-Portfolio/blob/main/Machine_Learning.md)
 
-### Core Research Projects
 
 | Project | Key Focus | Highlights |
 | --- | --- | --- |
@@ -35,7 +47,7 @@ Detailed technical write-ups of my Georgia Tech OMSCS coursework (Jan 2023-Aug 2
 
 ## [Reinforcement Learning](https://github.com/anicholson6/MSCS-Portfolio/blob/main/Reinforcement_Learning.md)
 
-### Core Research Projects
+
 
 | Project | Key Focus | Highlights |
 | --- | --- | --- |
@@ -48,7 +60,7 @@ Detailed technical write-ups of my Georgia Tech OMSCS coursework (Jan 2023-Aug 2
 -----------
 ## [Knowledge Based AI](https://github.com/anicholson6/MSCS-Portfolio/blob/main/Knowledge_Based_AI.md)
 
-### Core Research Projects
+
 
 | Project | Key Focus | Highlights |
 | --- | --- | --- |
@@ -59,7 +71,7 @@ Detailed technical write-ups of my Georgia Tech OMSCS coursework (Jan 2023-Aug 2
 ----------------------
 ## [Natural Language Processing](https://github.com/anicholson6/MSCS-Portfolio/blob/main/Reinforcement_Learning.md)
 
-### Core Research Projects
+
 
 | Project | Key Focus | Highlights |
 | --- | --- | --- |
@@ -90,3 +102,7 @@ Determine whether a job training program had a positive effect on employees' fut
 ## [Uplift  Modeling](https://github.com/anicholson6/Personal-Portfolio/tree/main/uplift-models) 
 Use uplift modeling to identify customers that will make a conversion if exposed to an ad, and determine the incremental gain over a control group. Method was compared across three meta learners - S, T, and X - to identify the top decile of customers.
 ![images](assets/img/qini-curve.png)
+
+## [Synthetic Control](https://github.com/anicholson6/Personal-Portfolio/tree/main/synthetic_control) 
+To estimate the lift of a regional marketing campaign, use OLS to generate a synthetic control group based on a pool of similar cities in the same region. Verify significance with a placebo test.
+![images](assets/img/synthetic_control_results.png)
